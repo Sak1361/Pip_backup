@@ -9,6 +9,7 @@ botocore==1.12.71
 bz2file==0.98
 certifi==2018.11.29
 chardet==3.0.4
+clang==6.0.0.2
 cycler==0.10.0
 Cython==0.29.2
 decorator==4.3.0
@@ -40,6 +41,7 @@ matplotlib==3.0.2
 mccabe==0.6.1
 mecab-python3==0.996.1
 mistune==0.8.4
+mojimoji==0.0.9
 nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.4
